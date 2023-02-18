@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch LandingpageBackendApplication",
+      "request": "launch",
+      "mainClass": "com.landingpage.landingpagebackend.LandingpageBackendApplication",
+      "projectName": "landingpage-backend (2)"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-LandingpageBackendApplication<landingpage-backend>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.landingpage.landingpagebackend.LandingpageBackendApplication",
+      "projectName": "landingpage-backend",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
